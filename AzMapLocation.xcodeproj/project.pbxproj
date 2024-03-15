@@ -295,6 +295,9 @@
 				DEVELOPMENT_TEAM = Y7653CXCKR;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = AzMapLocation/Info.plist;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Nerde olduğunu görebileyim diye";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "Sen hareket ettikçe etraftaki kampanyaları göstermek için";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Nerde olduğunu görebileyim diye";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -323,6 +326,9 @@
 				DEVELOPMENT_TEAM = Y7653CXCKR;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = AzMapLocation/Info.plist;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Nerde olduğunu görebileyim diye";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "Sen hareket ettikçe etraftaki kampanyaları göstermek için";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Nerde olduğunu görebileyim diye";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
